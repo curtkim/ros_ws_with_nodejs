@@ -27,5 +27,8 @@
 
     rosrun beginner_tutorials talker 
     rosrun beginner_tutorials listener
-    
 
+## nodejs
+
+    src/rosnodejs_examples$ node script/listener.js
+    src/rosnodejs_examples$ node script/talker.js
